@@ -1,0 +1,42 @@
+        body {
+			background-color: #79C9F1; 
+			color: white;
+			font-family:"Inter", sans-serif;
+			font-weight: 200;
+		}
+        h1 {
+            color: white;
+            font-family: "Archivo Black", sans-serif;
+        }
+		h2 {
+			color: white;
+			font-family: "Archivo Black", sans-serif;
+			font-weight: 400;
+
+		}
+		h3 {
+			color: white;	
+			font-family: "Inter", sans-serif;
+		    font-optical-sizing: auto;
+		    font-weight: 300;
+		    
+		}
+		p {
+			color: white;
+			font-family: "Inter", sans-serif;
+		    font-optical-sizing: auto;
+		    font-weight: 200;
+		    font-style: "Inter", sans-serif;
+        }
+        col-md-6 {
+			padding: 8px; 
+			margin: 8px; 
+			column-gap: 8px; 
+        }
+		img {
+			width: 200px;
+		}
+		.hero-image {
+			background-image: url(https://lh3.googleusercontent.com/chat_attachment/AP1Ws4tE4jPLAoU9bvel4BCI09xf7msC7D0134C6m106dm_9mYgAK3Dtr3HaVdvfyAeOAqmXr14Pz9ZYvqoH_c4ad4w_HMfUgTtF9MLMYwKXTcSU5wVoHdwBj3gr74bj06y7F4pqTMfu-DFFg5Iv4JZMF5GPfZ5kiRHJmJNGqRP1O8CbvogqqhqBSqbSBnAu3X1fyIJ1gYY73boLlz-fcDeBfdIbJsI4VgSWniRcap0aV2fk_GLIO_0r6vQ37CwakpvAHhaMHidLT3dIXDu-qtoyTX1FS5WU4bjLggT-MR2LT2K26yiIdHIKhIbaCUYt-rCZDHk=w2879-h1555-rw)
+		}
+		

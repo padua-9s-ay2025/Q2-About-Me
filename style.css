@@ -39,4 +39,14 @@
 		.hero-image {
 			background-image: url(https://lh3.googleusercontent.com/chat_attachment/AP1Ws4tE4jPLAoU9bvel4BCI09xf7msC7D0134C6m106dm_9mYgAK3Dtr3HaVdvfyAeOAqmXr14Pz9ZYvqoH_c4ad4w_HMfUgTtF9MLMYwKXTcSU5wVoHdwBj3gr74bj06y7F4pqTMfu-DFFg5Iv4JZMF5GPfZ5kiRHJmJNGqRP1O8CbvogqqhqBSqbSBnAu3X1fyIJ1gYY73boLlz-fcDeBfdIbJsI4VgSWniRcap0aV2fk_GLIO_0r6vQ37CwakpvAHhaMHidLT3dIXDu-qtoyTX1FS5WU4bjLggT-MR2LT2K26yiIdHIKhIbaCUYt-rCZDHk=w2879-h1555-rw)
 		}
+		.box {
+			border: 1px white solid; 
+		}
+		#team-box {
+			border: 2px white solid;
+			box-shadow: -6px 6px 5px 0px rgba(54,51,51,0.75);
+		}
+		.box >img {
+			border: 1px white solid;
+		}
 		
